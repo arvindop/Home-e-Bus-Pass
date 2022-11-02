@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dtcpass.delhi.gov.in	TRUE	/	FALSE	1999999999	JSESSIONID	34178FCD2C3EF6F2F040FA49DC22B200
+dtcpass.delhi.gov.in	TRUE	/	FALSE	1999999999	key	value
+dtcpass.delhi.gov.in	TRUE	/	FALSE	1999999999	SameSite	strict
+
